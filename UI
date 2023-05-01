@@ -501,7 +501,7 @@ function Library.Render(settings)
         
         Tab.Name = "Tab"
         Tab.Parent = TabList
-        Tab.BackgroundColor3 = Color3.fromRGB(230, 240, 242)
+        Tab.BackgroundColor3 = Color3.fromRGB(251,98,98)
         Tab.BackgroundTransparency = 1
         Tab.Position = UDim2.new(0.0686274543, 0, 0, 0)
         Tab.Size = UDim2.new(0, 132, 0, 28)
