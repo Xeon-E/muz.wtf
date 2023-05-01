@@ -111,7 +111,7 @@ local SafeBindable = Instance.new("BindableEvent")
 
 function Library.Render(settings)
     local settings = settings or {}
-    local Title = settings.Text or settings.Title or "<font color=\"rgb(114,150,164)\">MUZ</font>.WTF"
+    local Title = settings.Text or settings.Title or "<font color=\"rgb(230, 240, 242)\">MUZ</font>.WTF"
     local SavePosition = settings.SavePosition or false
     local Options = settings.Options or {}
 
